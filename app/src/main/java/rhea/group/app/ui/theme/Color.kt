@@ -1,0 +1,30 @@
+package rhea.group.app.ui.theme
+
+import androidx.compose.ui.graphics.Color
+
+val DullLavender = Color(0xFF89A1E2)
+val Persimmom = Color(0xFFFF5353)
+val Salmon = Color(0xFFFF8976)
+val Turquoise = Color(0xFF2FD8C4)
+val Portica = Color(0xFFF7F36B)
+val White = Color(0xFFFFFFFF)
+val BlackSqueeze = Color(0xFFFCFDFE)
+val WhiteLilac = Color(0xD5F7F9FC)
+val LinkWater = Color(0xFFEFF3FA)
+val Botticelli = Color(0xFFC6D2E0)
+val Hoki = Color(0xFF6382A0)
+val Biscay = Color(0xFF1D3E64)
+val PictonBlue = Color(0xFF4A9DF0)
+val AlbescentWhite = Color(0xFFF7EEDA)
+val Mirage = Color(0xFF111B27)
+val SmokeyGrey = Color(0xFF746F71)
+
+val Mirage_45 = Color(0x73111B27)
+val BlackSqueeze_45 = Color(0x74FCFDFE)
+val Transparent = Color(0x00FFFFFF)
+val BackgroundColor = Color(0xBF1D3E64)
+val SessionBackgroundColor = Color(0xB21D3E64)
+val TrialBackgroundColor = Color(0xD81D3E64)
+val Black = Color(0xFF000000)
+val WhiteLilacOpacity = Color(0xFFCFE2FF)
+val AlbescentWhiteOpacity = Color(0xFFEAEEEE)
